@@ -1,0 +1,5 @@
+->try removing height from feat.
+->try using lgbm
+->breed = feat
+	pet = feat+breed
+->
